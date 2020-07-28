@@ -1,0 +1,59 @@
+.blue{
+    display: flex;
+    flex-direction: column;
+    background-color:#172337;
+}
+.upper{
+    display: flex;
+    flex-direction: row;
+}
+.upper1{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.upper1 h3{
+    color: #878787;
+}
+.up1 li{
+    list-style: none;
+}
+.up2 li{
+    list-style: none;
+}
+.up3 li{
+    list-style: none;
+}
+.up4 li{
+    list-style: none;
+}
+.lower{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.lower li{
+    list-style: none;
+    padding: 30px;
+}
+.line{
+    display: block;
+    width: 100%;
+    background-color: white;
+    height: 1px;
+    margin: auto;
+}
+.upper2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    color: white;
+    
+}
+.upper2 h3{
+    color:#878787;
+}
+
